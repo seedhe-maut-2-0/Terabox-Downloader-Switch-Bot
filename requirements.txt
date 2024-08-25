@@ -1,0 +1,6 @@
+requests
+aiohttp
+aiofiles
+aria2p
+swibots
+python-dotenv
